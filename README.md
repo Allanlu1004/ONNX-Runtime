@@ -1,0 +1,2 @@
+本仓库使用ONNX Runtime推理yolov5-lite
+分别给出了在Windows和树莓派上的qt实现
