@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/vision.jpg</file>
+        <file>icon/HIK.png</file>
+        <file>icon/MVS.png</file>
+        <file>icon/add.ico</file>
+        <file>icon/bold.ico</file>
+        <file>icon/camera.png</file>
+        <file>icon/clear.ico</file>
+        <file>icon/copy.ico</file>
+        <file>icon/cut.ico</file>
+        <file>icon/exit.ico</file>
+        <file>icon/eye.ico</file>
+        <file>icon/flush.ico</file>
+        <file>icon/haarcascade_fullbody.xml</file>
+        <file>icon/insert.ico</file>
+        <file>icon/Italic.ico</file>
+        <file>icon/item.ico</file>
+        <file>icon/left.ico</file>
+        <file>icon/new.ico</file>
+        <file>icon/oo.ico</file>
+        <file>icon/open.ico</file>
+        <file>icon/paste.ico</file>
+        <file>icon/pause.ico</file>
+        <file>icon/play.ico</file>
+        <file>icon/print.ico</file>
+        <file>icon/right.ico</file>
+        <file>icon/save.ico</file>
+        <file>icon/stop.ico</file>
+        <file>icon/title.ico</file>
+        <file>icon/txt.ico</file>
+        <file>icon/underline.ico</file>
+        <file>icon/uo.ico</file>
+        <file>icon/Yolov5Detect.pro.RpLaIQ</file>
+        <file>icon/文件夹.png</file>
+        <file>icon/图片.png</file>
+        <file>icon/视频.png</file>
+        <file>icon/摄像头_实体.png</file>
+    </qresource>
+</RCC>
